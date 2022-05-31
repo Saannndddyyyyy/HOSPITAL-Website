@@ -377,7 +377,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   }
 }
 .slider .carousel-caption h3 {
-  background-color: rgba(23, 173, 182, 0.8);
+  background-color: #38c557;
   width: auto;
   width: fit-content;
   text-align: left;
@@ -655,7 +655,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 
 .blog .blog-singe .blog-content-tab a {
-  color: #007bfc;
+  color: #38c557;
   font-size: 12px;
   font-weight: 600;
 }
@@ -672,7 +672,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 /* ===================================== Footer Cover Style  ================================== */
 .footer-ablove {
   padding: 30px;
-  background-color: #05939c;
+  background-color: #38c557;
   color: #fff;
   font-size: 1.5rem;
 }
@@ -752,7 +752,7 @@ footer .tags ul li {
 
 .copy {
   padding: 20px;
-  background-color: #17adb6;
+  background-color: #38c557;
   color: #fff;
 }
 
@@ -847,7 +847,7 @@ footer .tags ul li {
 
 .our-team .team-row .single-usr .det-o {
   padding: 20px;
-  background-color: #17adb6;
+  background-color: #38c557;
 }
 
 .our-team .team-row .single-usr .det-o h4 {
