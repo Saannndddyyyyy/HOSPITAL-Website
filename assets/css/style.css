@@ -402,7 +402,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 
 .services {
-  background-color: #38c557;
+  background-color: #baffc9;
   padding: 50px;
 }
 @media screen and (max-width: 940px) {
@@ -411,7 +411,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   }
 }
 .services .servic-row .servcover {
-  background-color: rgb(240, 137, 20);
+  background-color: rgb(250, 202, 147);
   padding: 30px;
   text-align: center;
 }
@@ -427,7 +427,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   margin-bottom: 10px;
 }
 .services .servic-row .span {
-  background-color: #38c557;
+  background-color: #ffe642;
   color: rgb(240, 137, 20);
   padding: 5px 25px;
   font-weight: 600;
@@ -752,12 +752,12 @@ footer .tags ul li {
 
 .copy {
   padding: 20px;
-  background-color: #38c557;
+  background-color: #a8f7b9;
   color: #fff;
 }
 
 .copy a {
-  color: #fff;
+  color: #0a0a0a;
 }
 
 .copy span {
