@@ -100,7 +100,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #545454;
+  color: #E1EBFA;
 }
 
 body {
@@ -108,7 +108,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  color: #6A6A6A;
+  color: #E1EBFA;
   overflow-x: hidden;
 }
 
@@ -309,12 +309,14 @@ header {
 }
 header .header-top .left-info li {
   float: left;
+  color: #345EA8;
   padding: 10px;
   font-size: 1rem;
   font-weight: 500;
 }
 header .rit-info {
   float: right;
+  color: #345EA8;
 }
 header .rit-info li {
   padding: 10px;
@@ -350,10 +352,10 @@ header .nav-row .navbar .navbar-nav .nav-item {
   font-size: 0.9rem;
 }
 header .nav-row .navbar .navbar-nav .nav-item .active {
-  background-color: #38c557;
+  background-color: #345EA8;
   padding: 5px 15px;
   border-radius: 50px;
-  color: rgb(240, 137, 20);
+  color: #fff;
 }
 @media screen and (max-width: 767px) {
   header .nav-row .navbar .navbar-nav .nav-item .active {
@@ -377,7 +379,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   }
 }
 .slider .carousel-caption h3 {
-  background-color: #38c557;
+  background-color: #4AB4DE;
   width: auto;
   width: fit-content;
   text-align: left;
@@ -386,10 +388,10 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   font-weight: 600;
   margin-bottom: 30px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  color: rgb(240, 137, 20);
+  color: #E1EBFA;
 }
 .slider .carousel-caption p {
-  background-color: #38c557;
+  background-color: #4AB4DE;
   width: 60%;
   text-align: left;
   padding: 10px 20px;
@@ -398,11 +400,11 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   font-size: 1rem;
   line-height: 25px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  color: rgb(240, 137, 20);
+  color: #E1EBFA;
 }
 
 .services {
-  background-color: #baffc9;
+  background-color: #345EA8;
   padding: 50px;
 }
 @media screen and (max-width: 940px) {
@@ -411,7 +413,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   }
 }
 .services .servic-row .servcover {
-  background-color: rgb(250, 202, 147);
+  background-color: #4AB4DE;
   padding: 30px;
   text-align: center;
 }
@@ -427,8 +429,8 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   margin-bottom: 10px;
 }
 .services .servic-row .span {
-  background-color: #ffe642;
-  color: rgb(240, 137, 20);
+  background-color: #3B8AC3;
+  color: #E1EBFA;
   padding: 5px 25px;
   font-weight: 600;
   border-radius: 15px;
@@ -448,7 +450,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 
 .testimonial-container {
-  background-color: rgb(240, 137, 20);
+  background-color: #3B8AC3;
   padding: 50px;
 }
 
@@ -465,8 +467,8 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 .testimonial {
   padding: 70px 30px 50px;
   margin: 50px 30px 30px;
-  border: 1px solid #38c557;
-  background-color: rgb(240, 137, 20);
+  border: 1px solid #345EA8;
+  background-color: #4AB4DE;
   box-shadow: 4.871px 10px 8px 0px rgba(0, 0, 0, 0.06);
   position: relative;
 }
@@ -475,7 +477,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  border: 5px solid #38c557;
+  border: 5px solid #E1EBFA;
   overflow: hidden;
   margin: 0 auto;
   position: absolute;
@@ -491,7 +493,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 
 .testimonial .description {
   font-size: 15px;
-  color: #5e595b;
+  color: #5EEDBCB;
   line-height: 27px;
   text-align: center;
   margin: 0;
@@ -505,7 +507,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   font-size: 25px;
-  color: #38c557;
+  color: #345EA8;
   position: absolute;
   top: 0;
   left: -2px;
@@ -516,10 +518,10 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   padding: 10px;
   margin: 0 auto;
   background: #fff;
-  border: 1px solid #38c557;
+  border: 1px solid #345EA8;
   font-size: 20px;
   font-weight: 700;
-  color: #38c557;
+  color: #345EA8;
   letter-spacing: 1px;
   text-transform: uppercase;
   position: absolute;
@@ -530,7 +532,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 
 .testimonial .post {
   font-size: 15px;
-  color: #38c557;
+  color: #345EA8;
 }
 
 .owl-theme .owl-controls {
@@ -605,7 +607,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 /* =================== Blog Style Starts Here =================== */
 .blog {
   padding: 50px;
-  background-color: #ffffff;
+  background-color: #4AB4DE;
 }
 
 @media screen and (max-width: 990px) {
@@ -621,7 +623,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 .blog .blog-singe {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-radius: 2px;
-  background-color: #fff;
+  background-color: #345EA8;
   margin-bottom: 30px;
 }
 
@@ -655,7 +657,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 
 .blog .blog-singe .blog-content-tab a {
-  color: #38c557;
+  color: #EEDBCB;
   font-size: 12px;
   font-weight: 600;
 }
@@ -672,7 +674,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 /* ===================================== Footer Cover Style  ================================== */
 .footer-ablove {
   padding: 30px;
-  background-color: #38c557;
+  background-color: #EEDBCB;
   color: #fff;
   font-size: 1.5rem;
 }
@@ -685,7 +687,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 
 footer {
   padding: 80px 50px;
-  background-color: #05939c;
+  background-color: #EEDBCB;
   color: #fff;
 }
 
@@ -752,12 +754,12 @@ footer .tags ul li {
 
 .copy {
   padding: 20px;
-  background-color: #a8f7b9;
-  color: #fff;
+  background-color: #345EA8;
+  color: #EEDBCB;
 }
 
 .copy a {
-  color: #0a0a0a;
+  color: #EEDBCB;
 }
 
 .copy span {
