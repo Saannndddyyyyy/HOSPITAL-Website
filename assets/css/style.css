@@ -404,7 +404,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 
 .services {
-  background-color: #345EA8;
+  background-color: white;
   padding: 50px;
 }
 @media screen and (max-width: 940px) {
