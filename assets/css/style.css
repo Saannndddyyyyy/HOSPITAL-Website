@@ -409,12 +409,13 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
 }
 @media screen and (max-width: 940px) {
   .services {
-    padding: 30px 10px;
+    padding: 40px 10px;
+    align: center;
   }
 }
 .services .servic-row .servcover {
   background-color: #4AB4DE;
-  padding: 30px;
+  padding: 40px;
   text-align: center;
 }
 .services .servic-row .servcover img {
