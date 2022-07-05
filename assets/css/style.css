@@ -421,6 +421,7 @@ header .nav-row .navbar .navbar-nav .nav-item .active {
   background-color: #4AB4DE;
   padding: 40px;
   text-align: center;
+  min-height: 450px;
 }
 .services .servic-row .servcover img {
   margin-bottom: 20px;
